@@ -1,0 +1,7 @@
+msin=/path/split.ms
+msin.datacolumn=CORRECTED_DATA
+msout=/path/split_out.ms
+msout.datacolumn=DATA
+steps=[phaseshift]
+phaseshift.type=phaseshift
+phaseshift.phasecenter=[12.0deg, -49.5deg]
