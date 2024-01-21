@@ -1,0 +1,1 @@
+This folder contains the dynamic spectra of all observations of AU Mic in .npy form. There are 5 files per observation: the Stokes V and Stokes I flux values, the Stokes V and Stokes I imaginary component values, and the timestamps for each integration.
